@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Joshi Research Group]]></title>
+  <link href="http://joshigroup.net//atom.xml" rel="self"/>
+  <link href="http://joshigroup.net//"/>
+  <updated>2013-04-04T16:14:17+08:00</updated>
+  <id>http://joshigroup.net//</id>
+  <author>
+    <name><![CDATA[Joshi]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
